@@ -23,7 +23,7 @@
 *Placa Mãe* | <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
 *Gabinete* | *Fortress-tg Gamemax*
 *Fonte* | *GIGABYTE - GP-P550*
-*CPU* | *KV1Kes (11900K)*
+*CPU* | *KV1K es (11900K)*
 *Water Cooler* | *DEEPCOOL GAMMAXX L120T*
 *NVME M.2* | *XPG GAMMIX S11L 256GB / macOS*
 *NVME M.2* | *XPG GAMMIX S41 512GB / Windows 11*
@@ -44,8 +44,8 @@
 ##
 
 ## *Resultados Geekbench*
-* _**Processador de engenharia KV1Kes**_
-  * *Por ser um processador de engenharia é necessário chave de ativação do [`Geekbench`](https://www.geekbench.com) para gerrar os testes, eu não tenho!*
+* _**Processador de engenharia KV1K es**_
+  * *Por ser um processador de engenharia é necessário chave de ativação do [`Geekbench`](https://www.geekbench.com) para gerar os testes, eu não tenho!*
 
 ##
 
@@ -71,7 +71,7 @@
 - *`USBMap.kext`*
 - *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/releases)*
 - *[`BluetoolFixup.kext`](https://github.com/acidanthera/BrcmPatchRAM/releases)*
-_ *[`IntelBluetoothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
+- *[`IntelBluetoothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 - *[`ntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 ##
 
@@ -82,7 +82,7 @@ _ *[`IntelBluetoothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBlu
 * _**Recomendação 2**_
   * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar seu config.plist.*     
 * _**Recomendação 3**_
-  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, (apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit habilitada no config.plist + [`USBInjectAll`])(https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
+  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit habilitada no config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
 * _**Recomendação 4**_
   * *Extrair sua DSDT a partir do windows.*
   * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
