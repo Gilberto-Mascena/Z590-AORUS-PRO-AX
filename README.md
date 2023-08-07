@@ -66,7 +66,7 @@
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
 - *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), somente: `VirtualSMC.kext`, `SMCProcessor.kext` e `SMCSuperIO.kext`*.
-- *[`AppleInteli210Eternet.kext`](https://github.com/luchina-gabriel/youtube-files/raw/main/AppleIntelI210Ethernet.kext.zip)*
+- *[`AppleInteli210Ethernet.kext`](https://github.com/luchina-gabriel/youtube-files/raw/main/AppleIntelI210Ethernet.kext.zip)*
 - *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
 - *`USBMap.kext`*
 - *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/releases)*
