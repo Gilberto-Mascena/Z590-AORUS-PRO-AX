@@ -23,7 +23,7 @@
 *Placa Mãe* | <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
 *Gabinete* | *Fortress-tg Gamemax*
 *Fonte* | *GIGABYTE - GP-P550*
-*CPU* | *KV1K es (11900K)*
+*CPU* | *KV1K es (i9 11900K)*
 *Water Cooler* | *DEEPCOOL GAMMAXX L120T*
 *NVME M.2* | *XPG GAMMIX S11L 256GB / macOS*
 *NVME M.2* | *XPG GAMMIX S41 512GB / Windows 11*
