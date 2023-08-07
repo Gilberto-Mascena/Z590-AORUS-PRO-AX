@@ -1,0 +1,84 @@
+PORTAS FRONTAIS 2.0
+
+12. HS12 | AppleUSB20XHCIPort | 12 (0c000000) | 14c00000 | Type 3
+    - USB2.0 Hub
+        - AppleUSB20Hub
+            - Cruzer Blade
+
+9. HS09 | AppleUSB20XHCIPort |  9 (09000000) | 14900000 | Type 3
+    - Cruzer Blade            
+
+T:12,9:0   
+
+
+
+
+PORTAS FRONTAIS 3.0
+
+24. SS08 | AppleUSB30XHCIPort | 24 (18000000) | 15800000 | Type 3
+    - ADATA USB Flash Drive 
+
+T:24:3               
+
+
+PORTAS TRASEIRAS 2.0
+
+6. HS06 | AppleUSB20XHCIPort |  6 (06000000) | 14600000 | Type 3
+    - Microsoft USB Optical Mouse
+
+5. HS05 | AppleUSB20XHCIPort |  5 (05000000) | 14500000 | Type 3
+    * composite_device
+
+7. HS07 | AppleUSB20XHCIPort |  7 (07000000) | 14700000 | Type 3
+    - Fifine Microphone                    
+
+8. HS08 | AppleUSB20XHCIPort |  8 (08000000) | 14800000 | Type 3
+    - C270 HD WEBCAM
+
+12. HS12 | AppleUSB20XHCIPort | 12 (0c000000) | 14c00000 | Type 3
+    - USB2.0 Hub
+
+11. HS11 | AppleUSB20XHCIPort | 11 (0b000000) | 14b00000 | Type 3
+    - USB2.0 Hub
+        - AppleUSB20Hub
+            - Cruzer Blade
+
+4. HS04 | AppleUSB20XHCIPort |  4 (04000000) | 14400000 | Type 3
+    - 4-Port USB 2.1 Hub
+        - AppleUSB20Hub
+            - Cruzer Blade  
+
+T:6,5,7,8,12,11,4:0   
+         
+
+
+PORTAS TRASEIRAS 3.0
+
+19. SS03 | AppleUSB30XHCIPort | 19 (13000000) | 15300000 | Type 3
+    - 4-Port USB 3.1 Hub
+        - AppleUSB30Hub
+
+17. SS01 | AppleUSB30XHCIPort | 17 (11000000) | 15100000 | Type 3
+    - ASMT105x        
+
+
+T:19,17:3  
+
+
+
+PORTAS INTERNAS
+
+14. HS14 | AppleUSB20XHCIPort | 14 (0e000000) | 14e00000 | Type 3
+    * bluetooth_device
+
+13. HS13 | AppleUSB20XHCIPort | 13 (0d000000) | 14d00000 | Type 3
+    - ITE Device
+
+2. HS02 | AppleUSB20XHCIPort |  2 (02000000) | 14200000 | Type 3
+    - USB Audio
+
+T:14,13,2:255
+
+
+
+
