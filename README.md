@@ -3,7 +3,7 @@
 
 
 ![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z590-AORUS-PRO-AX?include_prereleases)
-![release](https://img.shields.io/github/release-date/Gilberto-Mascena/ZZ590-AORUS-PRO-AX)
+![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z590-AORUS-PRO-AX)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z590-AORUS-PRO-AX)
 ![license](https://img.shields.io/github/license/Gilberto-Mascena/Z590-AORUS-PRO-AX)
 ##
