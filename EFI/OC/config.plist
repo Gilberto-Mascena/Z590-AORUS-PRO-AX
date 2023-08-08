@@ -702,6 +702,8 @@
 			<false/>
 			<key>HideAuxiliary</key>
 			<false/>
+			<key>InstanceIdentifier</key>
+			<string></string>
 			<key>LauncherOption</key>
 			<string>Disabled</string>
 			<key>LauncherPath</key>
@@ -817,10 +819,6 @@
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
-				<key>revcpu</key>
-				<integer>1</integer>
-				<key>revcpuname</key>
-				<string>3.40 GHz Intel Core i9 11900K 8-Core</string>
 				<key>rtc-blacklist</key>
 				<data></data>
 			</dict>
@@ -854,9 +852,6 @@
 			<array>
 				<string>rtc-blacklist</string>
 				<string>opencore-version</string>
-				<string>revcpu</string>
-				<string>revcpuname</string>
-				<string>revpatch</string>
 			</array>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<array>

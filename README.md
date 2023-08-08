@@ -10,7 +10,7 @@
 
 ## *Sistema Operacional*
 
-<img align="right" src="./img/banner.png" alt="Z590 AORUS PRO AX" width="330">
+<img align="right" src="./img/bannerp.png" alt="Z590 AORUS PRO AX" width="330">
 
 *macOS* | *Ventura*
 :---:|:---
@@ -29,7 +29,7 @@
 *NVME M.2* | *XPG GAMMIX S41 512GB / Windows 11*
 *GPU* | *RX 570 4G PowerColor*
 *Memória ram* | *CORSAIR VENGEANCE LPX 2x16GB total 32GB*
-*WI-FI / Bluetooth* | *AX200*
+*WI-FI / Bluetooth* | *Intel AX200*
 *Rede* | *Intel I225-V*
 ##
 
