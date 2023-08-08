@@ -10,7 +10,7 @@
 
 ## *Sistema Operacional*
 
-<img align="right" src="./img/bannerp.png" alt="Z590 AORUS PRO AX" width="330">
+<img align="right" src="./img/bannerp.png" alt=" foto Z590 AORUS PRO AX" width="330">
 
 *macOS* | *Ventura*
 :---:|:---
@@ -23,7 +23,7 @@
 *Placa Mãe* | <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
 *Gabinete* | *Fortress-tg Gamemax*
 *Fonte* | *GIGABYTE - GP-P550*
-*CPU* | *KV1K es (i9 11900K)*
+*CPU* | *i9 11900K (KV1K es)*
 *Water Cooler* | *DEEPCOOL GAMMAXX L120T*
 *NVME M.2* | *XPG GAMMIX S11L 256GB / macOS*
 *NVME M.2* | *XPG GAMMIX S41 512GB / Windows 11*
