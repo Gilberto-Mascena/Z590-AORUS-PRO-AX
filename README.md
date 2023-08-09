@@ -72,7 +72,7 @@
 - *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/releases)*
 - *[`BluetoolFixup.kext`](https://github.com/acidanthera/BrcmPatchRAM/releases)*
 - *[`IntelBluetoothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
-- *[`ntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
+- *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 ##
 
 ## *Utilização*
