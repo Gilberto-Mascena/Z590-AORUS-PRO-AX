@@ -23,7 +23,7 @@
 *Placa Mãe* | <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
 *Gabinete* | *Fortress-tg Gamemax*
 *Fonte* | *GIGABYTE - GP-P550*
-*CPU* | *i9 11900K (KV1K es)*
+*CPU* | *i9 11900K (QV1K es)*
 *Water Cooler* | *DEEPCOOL GAMMAXX L120T*
 *NVME M.2* | *XPG GAMMIX S11L 256GB / macOS*
 *NVME M.2* | *XPG GAMMIX S41 512GB / Windows 11*
@@ -44,7 +44,7 @@
 ##
 
 ## *Resultados Geekbench*
-* _**Processador de engenharia KV1K es**_
+* _**Processador de engenharia QV1K es**_
   * *Por ser um processador de engenharia é necessário chave de ativação do [`Geekbench`](https://www.geekbench.com) para gerar os testes, eu não tenho!*
 
 ##
