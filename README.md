@@ -12,25 +12,34 @@
 
 <img align="right" src="./img/bannerp.png" alt=" foto Z590 AORUS PRO AX" width="330">
 
-*macOS* | *Ventura*
-:---:|:---
+**macOS**  **Ventura**
+
 ##
 
 ## *Meu Setup*
 
-*Config* | *Desktop*
-:---:|:---
-*Placa Mãe* | <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
-*Gabinete* | *Fortress-tg Gamemax*
-*Fonte* | *GIGABYTE - GP-P550*
-*CPU* | *i9 11900K (QV1K es)*
-*Water Cooler* | *DEEPCOOL GAMMAXX L120T*
-*NVME M.2* | *XPG GAMMIX S11L 256GB / macOS*
-*NVME M.2* | *XPG GAMMIX S41 512GB / Windows 11*
-*GPU* | *RX 570 4G PowerColor*
-*Memória ram* | *CORSAIR VENGEANCE LPX 2x16GB total 32GB*
-*WI-FI / Bluetooth* | *Intel AX200*
-*Rede* | *Intel I225-V*
+- _**Placa Mãe**_
+  - <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
+- _**Gabinete**_
+  - *Fortress-tg Gamemax*
+- **Fonte**
+  - *Gigabyte - GP-P550*
+- _**CPU**_
+  - *i9 11900K (QV1K es)*
+- _**Water Cooler**_
+  - *DEEPCOOL GAMMAXX L120T*
+- _**NVME M.2**_
+  - *XPG GAMMIX S11L 256GB / macOS*
+- _**NVME M.2**_
+  - *XPG GAMMIX S41 512GB / Windows 11*
+- _**GPU**_
+  - *RX 570 4G PowerColor*
+- _**Memória ram**_
+  - *CORSAIR VENGEANCE LPX 2x16GB total 32GB*
+- _**WI-FI / Bluetooth**_
+  - *Intel AX200*
+- _**Rede**_
+  - *Intel I225-V*  
 ##
 
 ## *O que funciona*
