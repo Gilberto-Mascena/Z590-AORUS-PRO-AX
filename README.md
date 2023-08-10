@@ -12,7 +12,7 @@
 
 <img align="right" src="./img/bannerp.png" alt=" foto Z590 AORUS PRO AX" width="330">
 
-**macOS**  **Ventura**
+_**macOS**  **Ventura**_
 
 ##
 
