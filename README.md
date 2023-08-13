@@ -25,7 +25,7 @@ _**macOS**  **Ventura**_
 - **Fonte**
   - *Gigabyte - GP-P550*
 - _**CPU**_
-  - *i9 11900K (QV1K es)*
+  - *Core i9 11900K (QV1K es)*
 - _**Water Cooler**_
   - *DEEPCOOL GAMMAXX L120T*
 - _**NVME M.2**_
