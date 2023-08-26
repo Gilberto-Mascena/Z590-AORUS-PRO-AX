@@ -27,7 +27,7 @@ _**macOS**  **Ventura**_
 - _**CPU**_
   - *Core i9 11900K (QV1K es)*
 - _**Water Cooler**_
-  - *DEEPCOOL GAMMAXX L120T*
+  - *SUPER FRAME SF-W360*
 - _**NVME M.2**_
   - *XPG GAMMIX S11L 256GB / macOS*
 - _**NVME M.2**_

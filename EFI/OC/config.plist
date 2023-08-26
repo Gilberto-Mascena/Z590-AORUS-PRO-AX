@@ -4,7 +4,7 @@
 <dict>
 	<key>#Z590 AORUS PRO AX</key>
 	<string></string>
-	<key>#iMacPro1,1  I9 11900Kes RX 570</key>
+	<key>#iMacPro1,1  Core I9 11900Kes RX 570</key>
 	<string></string>
 	<key>#GitHub: https://github.com/Gilberto-Mascena</key>
 	<string></string>
@@ -334,7 +334,7 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key># PciRoot(0x0)/Pci(0x1B,0x2)/Pci(0x0,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1B,0x2)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>device-id</key>
 				<data>8hUAAA==</data>
