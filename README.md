@@ -1,4 +1,4 @@
-# *EFI OC Z590 AORUS PRO AX macOS Ventura*
+# *EFI OC Z590 AORUS PRO AX macOS Ventura / Sonoma*
 
 
 
@@ -61,6 +61,8 @@ _**macOS**  **Ventura**_
 ## *Captura de telas*
 
 ![sobre-mac](./img/about-Ventura.png)
+##
+##
 ![sobre-mac-Sonoma](./img/about-Sonoma.png)
 ![som](./img/sound.png)
 ![internet](./img/network-wifi.png)
@@ -80,7 +82,7 @@ _**macOS**  **Ventura**_
 - *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
 - *`USBMap.kext`*
 - *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/releases) para macOS Ventura*
-- *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/files/12299048/AirportItlwm-Sonoma-Preview05.zip) para Sonoma Versão 14.0 (23A344), não usar ambas  injetadas no config.plist, ou uma ou outra de acordo com a versão do macOS! (obs.: nos testes só funciona a rede wi-fi de 2,4ghz)*
+- *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/files/12299048/AirportItlwm-Sonoma-Preview05.zip) para macOS Sonoma Versão 14.0 (23A344), não usar ambas  injetadas no config.plist, ou uma ou outra de acordo com a versão do macOS! (obs.: nos testes só funciona a rede WI-FI de 2,4ghz)*
 - *[`BluetoolFixup.kext`](https://github.com/acidanthera/BrcmPatchRAM/releases)*
 - *[`IntelBluetoothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 - *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
