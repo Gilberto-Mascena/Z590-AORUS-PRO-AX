@@ -336,12 +336,12 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x1B,0x2)/Pci(0x0,0x0)</key>
 			<dict>
-				<key>device-id</key>
+				<key>#device-id</key>
 				<data>8hUAAA==</data>
 				<key>device_type</key>
 				<string>Ethernet Controller</string>
 				<key>model</key>
-				<string>Intel(R) Ethernet Controller i225-LM</string>
+				<string>Intel(R) Ethernet Controller i225-V</string>
 			</dict>
 			<key># PciRoot(0x0)/Pci(0x1B,0x3)/Pci(0x0,0x0)</key>
 			<dict>
