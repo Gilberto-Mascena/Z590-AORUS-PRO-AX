@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#Z590 AORUS PRO AX OC Rel 0.9.5</key>
+	<key>#Z590 AORUS PRO AX OC Rel 0.9.6</key>
 	<string></string>
 	<key>#iMacPro1,1  Core I9 11900Kes RX 570</key>
 	<string></string>
@@ -303,6 +303,8 @@
 			<key>EnableSafeModeSlide</key>
 			<true/>
 			<key>EnableWriteUnprotector</key>
+			<false/>
+			<key>FixupAppleEfiImages</key>
 			<false/>
 			<key>ForceBooterSignature</key>
 			<false/>
