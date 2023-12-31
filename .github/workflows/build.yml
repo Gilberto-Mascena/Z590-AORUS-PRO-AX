@@ -24,11 +24,6 @@ jobs:
             _**Mudanças nesta Versão**_
 
             - Primeira Mudança:
-              - _Atualizado `OpenCore` para `0.9.6`._
-            - Segunda Mudança:
-              - _Adicionado em config.plis -> Booter -> Quirk -> `FixupAppleEfiImages`._
-            - Terceira Mudança:
-              - _Adicionado em EFI -> kexts -> `RestrictEvents.kext`_              
-              - _Adicionado em config.plis -> NVRAM -> Add -> 7C436110-AB2A-4BBB-A880-FE41995C9F82 -> boot-args -> `revpatch=sbvmm`:_
+              - _Atualizado `OpenCore` para `0.9.7`._            
           draft: false
           prerelease: false
