@@ -79,6 +79,7 @@ _**macOS**  **Ventura**_
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
 - *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), somente: `VirtualSMC.kext`, `SMCProcessor.kext` e `SMCSuperIO.kext`*.
 - *[`AppleInteli210Ethernet.kext`](https://github.com/luchina-gabriel/youtube-files/raw/main/AppleIntelI210Ethernet.kext.zip)*
+- *[`AppleIGC.kext`](https://github.com/SongXiaoXi/AppleIGC) como opção caso a sua internet conect mas não navegue, remova AppleInteli210Ethernet.kext e faça um OC Clean Snapshot, isso deve resouver o seu problema de internet* 
 - *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
 - *`USBMap.kext`*
 - *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/releases) para macOS Ventura*
