@@ -6,24 +6,31 @@ on:
 name: Create Release
 
 jobs:
-  build:
-    name: Create Release
+  upload:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          body: |
-            _**Mudanças nesta Versão**_
+      - name: Checkout codebase
+        uses: actions/checkout@v2
 
-            - Primeira Mudança:
-              - _Atualizado `OpenCore` para `0.9.8`._            
-          draft: false
+      - name: Packaging EFI
+        run: |
+          zip -q -r EFI.zip ./(EFI\)/          
+          ls -l *.zip
+
+      - name: Generate release tag
+        id: tag
+        run: |          
+          echo "::set-output name=release_tag::$(cat ReleaseTag)"
+          cat ReleaseTag
+
+      - name: Upload EFI to release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          name: MSI-B660-${{ steps.tag.outputs.release_tag }}-EFI
+          tag_name: ${{ steps.tag.outputs.release_tag }}
           prerelease: false
+          body_path: CHENGELOG.md
+          files: |
+            ./*.zip
