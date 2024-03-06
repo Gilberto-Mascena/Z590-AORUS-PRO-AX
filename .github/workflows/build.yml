@@ -36,6 +36,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}  
-          asset_path: ./efi.zip
-          asset_name: efi.zip
+          asset_path: ./EFI.zip
+          asset_name: EFI.zip
           asset_content_type: application/zip
