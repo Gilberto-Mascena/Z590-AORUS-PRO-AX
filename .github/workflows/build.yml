@@ -14,7 +14,7 @@ jobs:
 
       - name: Packaging EFI
         run: |
-          zip -q -r EFI.zip ./(EFI\)/          
+          zip -q -r EFI.zip ./EFI        
           ls -l *.zip
 
       - name: Generate release tag
