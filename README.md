@@ -16,7 +16,9 @@ _**macOS**  **Ventura**_
 
 ##
 
-## *Meu Setup*
+_**Meu Setup**_
+
+##
 
 - _**Placa Mãe**_
   - <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
@@ -29,7 +31,7 @@ _**macOS**  **Ventura**_
 - _**Water Cooler**_
   - *SUPER FRAME SF-W360*
 - _**NVME M.2**_
-  - *XPG GAMMIX S11L 256GB / macOS*
+  - *XPG GAMMIX S41 512GB / macOS*
 - _**NVME M.2**_
   - *XPG GAMMIX S41 512GB / Windows 11*
 - _**GPU**_
@@ -133,12 +135,16 @@ _**macOS**  **Ventura**_
 
 ## *Agradecimentos*
 
-- [*Acidanthera*](https://github.com/acidanthera)
+- [*Acidanthera Team*](https://github.com/acidanthera)
 - [*CorpNewt*](https://github.com/corpnewt)
 - [*CrisHotpatch*](https://t.me/crishotpatch)
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
+- [*AppleIGB*](https://github.com/Shaneee/AppleIGB)
+- [*AppleIGC*](https://github.com/SongXiaoXi/AppleIGC?tab=readme-ov-file)
+- *E outros*
+
 ##
 
 ## *Licença* 
