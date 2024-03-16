@@ -84,8 +84,7 @@ _**Meu Setup**_
 - *[`AppleIGC.kext`](https://github.com/SongXiaoXi/AppleIGC) como opção caso a sua internet conect mas não navegue, remova AppleInteli210Ethernet.kext e faça um OC Clean Snapshot, isso deve resouver o seu problema de internet* 
 - *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
 - *`USBMap.kext`*
-- *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/releases) para macOS Ventura*
-- *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/files/12299048/AirportItlwm-Sonoma-Preview05.zip) para macOS Sonoma Versão 14.0 (23A344), não usar ambas  injetadas no config.plist, ou uma ou outra de acordo com a versão do macOS!*
+- *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/releases) utilizar a versão correspondente ao macOS*- 
 - *[`BluetoolFixup.kext`](https://github.com/acidanthera/BrcmPatchRAM/releases)*
 - *[`IntelBluetoothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 - *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
