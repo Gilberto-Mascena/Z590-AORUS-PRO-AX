@@ -90,7 +90,7 @@ _**Meu Setup**_
 - *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 ##
 
-## *Utilização*
+## *Ferramentas recomendadas*
 
 * _**Recomendação 1**_
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
@@ -100,9 +100,11 @@ _**Meu Setup**_
   * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit habilitada no config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
 * _**Recomendação 4**_
   * *Extrair sua DSDT a partir do windows.*
-  * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
+  * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), gerar seus patches de SSDT.*    
 * _**Recomendação 5**_
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT.*
+* _**Recomendação 6**_
+  * *Use [`MountEFI`](https://github.com/corpnewt/MountEFI/blob/update/Mount%20EFI%20Automator%20Quick%20Action.zip), para montar a EFI no macOS*
 ##
 
 ## *Configurações de BIOS Intel*
