@@ -6,13 +6,15 @@
 ![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z590-AORUS-PRO-AX)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z590-AORUS-PRO-AX)
 ![license](https://img.shields.io/github/license/Gilberto-Mascena/Z590-AORUS-PRO-AX)
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 ##
 
 ## *Sistema Operacional*
 
 <img align="right" src="./img/bannerp.png" alt=" foto Z590 AORUS PRO AX" width="330">
 
-_**macOS**  **Sonoma 14.4**_
+_**macOS**  **Sonoma 14.4.1**_
 
 ##
 
@@ -34,8 +36,10 @@ _**Meu Setup**_
   - *XPG GAMMIX S41 512GB / macOS*
 - _**NVME M.2**_
   - *XPG GAMMIX S41 512GB / Windows 11*
+- _**NVME M.2**
+  - *XPG GAMMIX S11L 256GB / Ubuntu*
 - _**GPU**_
-  - *RX 570 4G PowerColor*
+  - *XFX AMD Radeon RX 6600 SWFT 210*
 - _**Memória ram**_
   - *CORSAIR VENGEANCE LPX 2x16GB total 32GB*
 - _**WI-FI / Bluetooth**_
@@ -61,17 +65,24 @@ _**Meu Setup**_
 ##
 
 ## *Captura de telas*
-
+## *Sobre este mac*
 ![sobre-mac](./img/about-Ventura.png)
 ##
 ##
 ![sobre-mac-Sonoma](./img/about-Sonoma.png)
+## *Áudio*
 ![som](./img/sound.png)
+## *Rede Cabeada*
 ![internet](./img/network-wifi.png)
+## *Bluetooth*
 ![bluetooth](./img/bluetooth.png)
+## *Hackintool Periféricos*
 ![perifericos](./img/peripherals.png)
+## *Hackintool Versão do OpenCore*
 ![versao-opencore](./img/opencore-version.png)
+## *Hackintool kexts*
 ![kexts](./img/kexts.png)
+## *Hackintool mapeamento das portas USB*
 ![mapeamento-usb](./img/USB-mapping.png)
 ##
 
