@@ -36,7 +36,7 @@ _**Meu Setup**_
   - *XPG GAMMIX S41 512GB / macOS*
 - _**NVME M.2**_
   - *XPG GAMMIX S41 512GB / Windows 11*
-- _**NVME M.2**
+- _**NVME M.2**_
   - *XPG GAMMIX S11L 256GB / Ubuntu*
 - _**GPU**_
   - *XFX AMD Radeon RX 6600 SWFT 210*
