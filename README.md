@@ -12,7 +12,7 @@
 
 ## *Sistema Operacional*
 
-<img alingn="right" src="./img/bannerp.png" alt=" foto Z590 AORUS PRO AX" width="330">
+<img align="right" src="./img/bannerp.png" alt=" foto Z590 AORUS PRO AX" width="330">
 
 _**macOS**  **Sonoma 14.4.1**_
 
