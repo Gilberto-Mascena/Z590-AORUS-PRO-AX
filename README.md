@@ -14,7 +14,7 @@
 
 <img align="right" src="./img/bannerp.png" alt=" foto Z590 AORUS PRO AX" width="330">
 
-_**macOS**  **Sonoma 14.4.1**_
+_**macOS**  **Sonoma 14.5**_
 
 ##
 
@@ -72,7 +72,7 @@ _**Meu Setup**_
 ![sobre-mac-Sonoma](./img/about-Sonoma.png)
 ## *Áudio*
 ![som](./img/sound.png)
-## *Rede Cabeada*
+## *Rede Cabeada e WI-FI*
 ![internet](./img/network-wifi.png)
 ## *Bluetooth*
 ![bluetooth](./img/bluetooth.png)
