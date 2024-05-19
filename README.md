@@ -10,23 +10,23 @@
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z590-AORUS-PRO-AX)
 ##
 
-## *Sistema Operacional*
+## *Operational system*
 
-<img align="right" src="./img/bannerp.png" alt=" foto Z590 AORUS PRO AX" width="330">
+<img align="right" src="./img/bannerp.png" alt="photo Z590 AORUS PRO AX" width="330">
 
 _**macOS**  **Sonoma 14.5**_
 
 ##
 
-_**Meu Setup**_
+_**My Setup**_
 
 ##
 
-- _**Placa Mãe**_
+- _**Motherboard**_
   - <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
-- _**Gabinete**_
+- _**Case**_
   - *Fortress-tg Gamemax*
-- **Fonte**
+- **Power supply**
   - *Gigabyte - GP-P550*
 - _**CPU**_
   - *Core i9 11900K (QV1K es)*
@@ -40,112 +40,90 @@ _**Meu Setup**_
   - *XPG GAMMIX S11L 256GB / Ubuntu*
 - _**GPU**_
   - *XFX AMD Radeon RX 6600 SWFT 210*
-- _**Memória ram**_
-  - *CORSAIR VENGEANCE LPX 2x16GB total 32GB*
+- _**Memory**_
+  - *CORSAIR VENGEANCE LPX 2x16GB 32GB*
 - _**WI-FI / Bluetooth**_
   - *Intel AX200*
-- _**Rede**_
+- _**Network**_
   - *Intel I225-V*  
 ##
 
-## *O que funciona*
+## *What works*
 
-- [x] *Áudio.*
-- [x] *Rede.*
-- [x] *WI-FI.*
-- [x] *Bluetooth.*
-- [x] *USB.*
-- [x] *Sleep.*
+- [x] *Sound*
+- [x] *Network*
+- [x] *WI-FI*
+- [x] *Bluetooth*
+- [x] *USB*
+- [x] *Sleep*
 ##
 
-## *Resultados Geekbench*
-* _**Processador de engenharia QV1K es**_
-  * *Por ser um processador de engenharia é necessário chave de ativação do [`Geekbench`](https://www.geekbench.com) para gerar os testes, eu não tenho!*
+## *Geekbench results*
+* _**CPU QV1K es**_
+  * *As it is an engineering processor, it requires an activation key [`Geekbench`](https://www.geekbench.com) to generate the tests, I don't have it!*
 
 ##
 
-## *Captura de telas*
-## *Sobre este mac*
-![sobre-mac](./img/about-Ventura.png)
+## *Screenshot*
+## *About this mac*
+![about-mac-Ventura](./img/about-Ventura.png)
 ##
 ##
-![sobre-mac-Sonoma](./img/about-Sonoma.png)
-## *Áudio*
-![som](./img/sound.png)
-## *Rede Cabeada e WI-FI*
-![internet](./img/network-wifi.png)
+![about-mac-Sonoma](./img/about-Sonoma.png)
+## *Sound*
+![sound](./img/sound.png)
+## *Wired Network and WI-FI*
+![network](./img/network-wifi.png)
 ## *Bluetooth*
 ![bluetooth](./img/bluetooth.png)
-## *Hackintool Periféricos*
-![perifericos](./img/peripherals.png)
-## *Hackintool Versão do OpenCore*
-![versao-opencore](./img/opencore-version.png)
+## *Hackintool Peripherals*
+![peripherals](./img/peripherals.png)
+## *Hackintool OpenCore Version*
+![opencore-version](./img/opencore-version.png)
 ## *Hackintool kexts*
 ![kexts](./img/kexts.png)
-## *Hackintool mapeamento das portas USB*
-![mapeamento-usb](./img/USB-mapping.png)
+## *Hackintool USB port mapping*
+![usb-mapping](./img/USB-mapping.png)
 ##
 
-## *Kexts usadas, (todas versões Releases)*
+## *Kexts used, (all Releases)*
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
 - *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), somente: `VirtualSMC.kext`, `SMCProcessor.kext` e `SMCSuperIO.kext`*.
 - *[`AppleInteli210Ethernet.kext`](https://github.com/luchina-gabriel/youtube-files/raw/main/AppleIntelI210Ethernet.kext.zip)*
-- *[`AppleIGC.kext`](https://github.com/SongXiaoXi/AppleIGC) como opção caso a sua internet conect mas não navegue, remova AppleInteli210Ethernet.kext e faça um OC Clean Snapshot, isso deve resouver o seu problema de internet* 
+- *[`AppleIGC.kext`](https://github.com/SongXiaoXi/AppleIGC) as an option if your internet connects but you can't browse, remove AppleInteli210Ethernet.kext and do an OC Clean Snapshot, this should    solve your internet problem* 
 - *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
 - *`USBMap.kext`*
-- *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/releases) utilizar a versão correspondente ao macOS*
+- *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/releases) use the version corresponding to macOS*
 - *[`BluetoolFixup.kext`](https://github.com/acidanthera/BrcmPatchRAM/releases)*
 - *[`IntelBluetoothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 - *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 ##
 
-## *Ferramentas recomendadas*
+## *Recommended tools*
 
-* _**Recomendação 1**_
-  * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
-* _**Recomendação 2**_
-  * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar seu config.plist.*     
-* _**Recomendação 3**_
-  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit habilitada no config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
-* _**Recomendação 4**_
-  * *Extrair sua DSDT a partir do windows.*
-  * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), gerar seus patches de SSDT.*    
-* _**Recomendação 5**_
-  * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT.*
-* _**Recomendação 6**_
-  * *Use [`MountEFI`](https://github.com/corpnewt/MountEFI/blob/update/Mount%20EFI%20Automator%20Quick%20Action.zip), para montar a EFI no macOS*
+* _**Recommendation 1**_
+  * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
+* _**Recommendation 2**_
+  * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), to edit your config.plist.*     
+* _**Recommendation 3**_
+  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), to map your USB ports, starting from OC 0.9.3, they can be mapped with XHCIPortLimit enabled in config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
+* _**Recommendation 4**_
+  * *Extract your DSDT from windows.*
+  * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), generate your SSDT patches.*    
+* _**Recommendation 5**_
+  * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your patches on mac SSDT.*
+* _**Recommendation 6**_
+  * *Use [`MountEFI`](https://github.com/corpnewt/MountEFI/blob/update/Mount%20EFI%20Automator%20Quick%20Action.zip), to mount EFI on macOS.*
 ##
 
-## *Configurações de BIOS Intel*
+## *Intel BIOS Settings*
 
-* _**Desativar**_
-
-  * *Fast Boot*
-  * *Secure Boot*
-  * *Serial/COM Port*
-  * *Parallel Port*
-  * *VT-d (pode ser ativado se você definir DisableIoMapper como true)*
-  * *Módulo de suporte de compatibilidade (CSM) (deve estar desativado na maioria dos casos, erros/paradas de GPU como gIO são comuns quando esta opção está ativada)*
-  * *Thunderbolt (para instalação inicial, pois o Thunderbolt pode causar problemas se não for configurado corretamente)*
-  * *Intel SGX*
-  * *Intel Platform Trust*
-  * *CFG Lock (proteção contra gravação MSR 0xE2) (deve estar desativado, se você não conseguir encontrar a opção, ative AppleXcpmCfgLock em Kernel -> Quirks. Seu hack não inicializará com o CFG-Lock ativado)*
-
-* _**Habilitar**_
-
-  * *VT-x*
-  * *Above 4G Decoding (Resizable BAR -> Disable)*
-  * *Hyper-Threading*
-  * *Execute Disable Bit*
-  * *EHCI/XHCI Hand-off*
-  * *Tipo de SO: Modo UEFI do Windows 8.1/10 (algumas placas-mãe podem exigir "Outro sistema operacional")*
-  * *DVMT pré-alocado (memória iGPU): 64 MB ou superior*
-  * *Modo SATA: AHCI*
+- [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#intel-bios-settings)
 ##
 
-## *Agradecimentos*
+## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
 - [*CorpNewt*](https://github.com/corpnewt)
@@ -155,11 +133,11 @@ _**Meu Setup**_
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
 - [*AppleIGB*](https://github.com/Shaneee/AppleIGB)
 - [*AppleIGC*](https://github.com/SongXiaoXi/AppleIGC?tab=readme-ov-file)
-- *E outros*
+- *And others*
 
 ##
 
-## *Licença* 
+## *License* 
 
 *The* [*MIT License*](./LICENSE.md) (*MIT*)
 
