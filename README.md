@@ -24,7 +24,7 @@ _**My Setup**_
 
 - _**Motherboard**_
   - <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
-  -_**Bios version**_
+- _**Bios version**_
   - *F11*
 - _**Case**_
   - *Fortress-tg Gamemax*
