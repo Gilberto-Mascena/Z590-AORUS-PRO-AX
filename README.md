@@ -8,7 +8,8 @@
 [![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z590-AORUS-PRO-AX?include_prereleases)](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/releases)
 ![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z590-AORUS-PRO-AX)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z590-AORUS-PRO-AX)
-##
+
+---
 
 ## *Operational system*
 
@@ -16,11 +17,11 @@
 
 _**macOS**  **Sonoma 14.5**_
 
-##
+---
 
 _**My Setup**_
 
-##
+---
 
 - _**Motherboard**_
   - <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
@@ -43,13 +44,27 @@ _**My Setup**_
 - _**GPU**_
   - *XFX AMD Radeon RX 6600 SWFT 210*
 - _**Memory**_
-  - *CORSAIR VENGEANCE LPX 2x16GB 32GB*
+  - *CORSAIR VENGEANCE LPX 4x16GB 64GB*
 - _**WI-FI / Bluetooth**_
   - *Intel AX200*
 - _**Network**_
   - *Intel I225-V*  
-##
+---
 
+<a name="ancora"></a>
+## Navigation
+- [*What works*](#ancora1)
+- [*Geekbench results*](#ancora2)
+- [*Screenshot*](#ancora3)
+- [*Kexts used, (all Releases)*](#ancora4)
+- [*Recommended tools*](#ancora5)
+- [*Intel BIOS Settings*](#ancora6)
+- [*Thanks*](#ancora7)
+- [*License* ](#ancora8)
+
+---
+
+<a id="ancora1"></a>
 ## *What works*
 
 - [x] *Sound*
@@ -58,19 +73,26 @@ _**My Setup**_
 - [x] *Bluetooth*
 - [x] *USB*
 - [x] *Sleep*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora2"></a>
 ## *Geekbench results*
+
 * _**CPU QV1K es**_
-  * *As it is an engineering processor, it requires an activation key [`Geekbench`](https://www.geekbench.com) to generate the tests, I don't have it!*
+  *As it is an engineering processor, it requires an activation key [`Geekbench`](https://www.geekbench.com) to generate the tests, I don't have it!*
 
-##
+[Top](#ancora)
 
+---
+
+<a id="ancora3"></a>
 ## *Screenshot*
-## *About this mac*
+
 ![about-mac-Ventura](./img/about-Ventura.png)
-##
-##
+---
 ![about-mac-Sonoma](./img/about-Sonoma.png)
 ## *Sound*
 ![sound](./img/sound.png)
@@ -86,8 +108,12 @@ _**My Setup**_
 ![kexts](./img/kexts.png)
 ## *Hackintool USB port mapping*
 ![usb-mapping](./img/USB-mapping.png)
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora4"></a>
 ## *Kexts used, (all Releases)*
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
@@ -101,8 +127,12 @@ _**My Setup**_
 - *[`BluetoolFixup.kext`](https://github.com/acidanthera/BrcmPatchRAM/releases)*
 - *[`IntelBluetoothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 - *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora5"></a>
 ## *Recommended tools*
 
 * _**Recommendation 1**_
@@ -118,13 +148,21 @@ _**My Setup**_
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your patches on mac SSDT.*
 * _**Recommendation 6**_
   * *Use [`MountEFI`](https://github.com/corpnewt/MountEFI/blob/update/Mount%20EFI%20Automator%20Quick%20Action.zip), to mount EFI on macOS.*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora6"></a>
 ## *Intel BIOS Settings*
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#intel-bios-settings)
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora7"></a>
 ## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -137,11 +175,17 @@ _**My Setup**_
 - [*AppleIGC*](https://github.com/SongXiaoXi/AppleIGC?tab=readme-ov-file)
 - *And others*
 
-##
+[Top](#ancora)
 
+---
+
+<a id="ancora8"></a>
 ## *License* 
 
 *The* [*MIT License*](./LICENSE.md) (*MIT*)
 
 *Copyright :copyright: 2023* 
-##
+
+[Top](#ancora)
+
+---
