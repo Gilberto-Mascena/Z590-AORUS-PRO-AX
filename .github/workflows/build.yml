@@ -1,8 +1,11 @@
+#Github Actions to create a release and upload a release asset
+#Gigabyte Z590 Aorus Pro AX Hackintosh EFI
+
 on:
   push:    
     tags:
-      - 'v*' 
-name: Create Release
+      - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10
+name: Uploud EFI to Release
 
 jobs:
   build:
@@ -12,7 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3 
 
-      - name: Build project 
+      - name: Packaging EFIs 
         run: |
           zip -q -r EFI.zip ./EFI
           ls -l *.zip
