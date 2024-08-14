@@ -2,6 +2,7 @@
 
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Z590-AORUS-PRO-AX)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/Z590-AORUS-PRO-AX/.github%2Fworkflows%2Fbuild.yml)
 [![license](https://img.shields.io/github/license/Gilberto-Mascena/Z590-AORUS-PRO-AX)](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/blob/main/LICENSE.md)
 [![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/Z590-AORUS-PRO-AX)](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/Z590-AORUS-PRO-AX)](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/issues)
