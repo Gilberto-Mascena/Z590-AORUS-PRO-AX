@@ -31,7 +31,7 @@ _**My Setup**_
 - _**Case**_
   - *Fortress-tg Gamemax*
 - **Power supply**
-  - *Gigabyte - GP-P550*
+  - *SUPER FLOWER - LEGION GX PRO 750W 80 PLUS GOLD*
 - _**CPU**_
   - *Core i9 11900K (QV1K es)*
 - _**Water Cooler**_
