@@ -16,7 +16,7 @@
 
 <img align="right" src="./img/bannerp.png" alt="photo Z590 AORUS PRO AX" width="330">
 
-_**macOS**  **Sonoma 14.5**_
+_**macOS**  **Sonoma 14.6.1**_
 
 ---
 
