@@ -28,8 +28,6 @@
 
 _**My Setup**_
 
----
-
 - _**Motherboard**_
   - <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
 - _**Bios version**_
@@ -50,6 +48,7 @@ _**My Setup**_
   - *XPG GAMMIX S11L 256GB / Ubuntu*
 - _**GPU**_
   - *XFX AMD Radeon RX 6600 SWFT 210*
+    - *Attention: Navi21 6000 series has been incorporated into macOS 11.4 and Navi23 into macOS 12.1, for more details see [Native amd gpus](https://dortania.github.io/GPU-Buyers-Guide/modern-gpus/amd-gpu.html#native-amd-gpus)*
 - _**Memory**_
   - *CORSAIR VENGEANCE LPX 4x16GB 64GB*
 - _**WI-FI / Bluetooth**_
