@@ -1,4 +1,4 @@
-# *EFI OC Z590 AORUS PRO AX macOS Ventura / Sonoma*
+# *EFI OC Gigabyte Z590 AORUS PRO AX*
 
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Z590-AORUS-PRO-AX)
@@ -12,11 +12,17 @@
 
 ---
 
-## *Operational system*
+## *Operating systems*
 
 <img align="right" src="./img/bannerp.png" alt="photo Z590 AORUS PRO AX" width="330">
 
-_**macOS**  **Sonoma 14.6.1**_
+<div left="center">
+  <img src="./img/macos-monterey-icon.png" alt="" width="55">  
+  <img src="./img/macos-ventura-icon.png" alt="logo macOS Ventura" width="55">
+  <img src="./img/macos-sonoma-icon.png" alt="logo macOS Sonoma" width="55">
+  <img src="./img/windows-11-icon.png" alt="logo Windows 11" width="50">
+  <img src="./img/ubuntu.png" alt="logo circulo Ubuntu" width="50">  
+</div>
 
 ---
 
