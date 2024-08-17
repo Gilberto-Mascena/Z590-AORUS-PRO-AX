@@ -16,12 +16,9 @@
 
 <img align="right" src="./img/bannerp.png" alt="photo Z590 AORUS PRO AX" width="330">
 
-<div>
-  <img src="./img/macos-monterey-icon.png" alt="logo macOS monterey" width="55">  
-  <img src="./img/macos-ventura-icon.png" alt="logo macOS Ventura" width="55">
-  <img src="./img/macos-sonoma-icon.png" alt="logo macOS Sonoma" width="55">
-  <img src="./img/windows-11-icon.png" alt="logo Windows 11" width="50">
-  <img src="./img/ubuntu.png" alt="logo circulo Ubuntu" width="50">  
+<div>  
+  <img src="./img/macos-three.png" alt="logos macOS" width="300">
+  
 </div>
 
 ---
