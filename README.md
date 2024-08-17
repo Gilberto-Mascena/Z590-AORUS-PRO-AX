@@ -16,8 +16,8 @@
 
 <img align="right" src="./img/bannerp.png" alt="photo Z590 AORUS PRO AX" width="330">
 
-<div left="center">
-  <img src="./img/macos-monterey-icon.png" alt="" width="55">  
+<div>
+  <img src="./img/macos-monterey-icon.png" alt="logo macOS monterey" width="55">  
   <img src="./img/macos-ventura-icon.png" alt="logo macOS Ventura" width="55">
   <img src="./img/macos-sonoma-icon.png" alt="logo macOS Sonoma" width="55">
   <img src="./img/windows-11-icon.png" alt="logo Windows 11" width="50">
@@ -48,7 +48,7 @@ _**My Setup**_
   - *XPG GAMMIX S11L 256GB / Ubuntu*
 - _**GPU**_
   - *XFX AMD Radeon RX 6600 SWFT 210*
-    - *Attention: Navi21 6000 series has been incorporated into macOS 11.4 and Navi23 into macOS 12.1, for more details see [Native amd gpus](https://dortania.github.io/GPU-Buyers-Guide/modern-gpus/amd-gpu.html#native-amd-gpus)*
+    > _**WARNING:**_ *Navi21 6000 series has been incorporated into macOS 11.4 and Navi23 into macOS 12.1, for more details see [Native amd gpus](https://dortania.github.io/GPU-Buyers-Guide/modern-gpus/amd-gpu.html#native-amd-gpus)*
 - _**Memory**_
   - *CORSAIR VENGEANCE LPX 4x16GB 64GB*
 - _**WI-FI / Bluetooth**_
