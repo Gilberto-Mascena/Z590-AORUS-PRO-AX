@@ -14,11 +14,12 @@
 
 ## *Operating systems*
 
-<img align="right" src="./img/bannerp.png" alt="photo Z590 AORUS PRO AX" width="330">
+<div align="left">  
+  <img src="./img/macos-three.png" alt="macOS icons" width="300">  
+</div>
 
-<div>  
-  <img src="./img/macos-three.png" alt="logos macOS" width="300">
-  
+<div>
+  <img align="right" src="./img/bannerp.png" alt="photo Z590 AORUS PRO AX" width="330">
 </div>
 
 ---
