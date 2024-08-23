@@ -47,11 +47,14 @@ _**My Setup**_
 - _**GPU**_
   - *XFX AMD Radeon RX 6600 SWFT 210*
 > [!WARNING]
-> *Navi21 6000 series has been incorporated into macOS 11.4 and Navi23 into macOS 12.1, for more details see [Native amd gpus](https://dortania.github.io/GPU-Buyers-Guide/modern-gpus/amd-gpu.html#native-amd-gpus)*
+> *Navi21 6000 series has been incorporated into macOS 11.4 and Navi23 into macOS 12.1, for more details, see [Native amd gpus](https://dortania.github.io/GPU-Buyers-Guide/modern-gpus/amd-gpu.html#native-amd-gpus)*
+---
 - _**Memory**_
   - *CORSAIR VENGEANCE LPX 4x16GB 64GB*
 - _**WI-FI / Bluetooth**_
   - *Intel AX200*
+> [!NOTE]
+> _For more information on compatible Intel WiFi cards, see: [OpenIntelWireless](https://openintelwireless.github.io/itlwm/Compat)_ 
 - _**Network**_
   - *Intel I225-V*  
 ---
