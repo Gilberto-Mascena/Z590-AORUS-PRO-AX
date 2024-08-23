@@ -93,7 +93,7 @@ _**My Setup**_
 ---
 
 <a id="ancora3"></a>
-## *Screenshot*
+## Screenshots
 
 ![about-mac-Ventura](./img/about-Ventura.png)
 ---
