@@ -69,7 +69,8 @@ _**My Setup**_
 ---
 
 <a id="ancora1"></a>
-## *What works*
+
+<details><summary><h2>What works</h2></summary>
 
 - [x] *Sound*
 - [x] *Network*
@@ -79,18 +80,17 @@ _**My Setup**_
 - [x] *Sleep*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora2"></a>
-## *Geekbench results*
+
+<details><summary><h2>Geekbench results</h2></summary>
 
 * _**CPU QV1K es**_
   *As it is an engineering processor, it requires an activation key [`Geekbench`](https://www.geekbench.com) to generate the tests, I don't have it!*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora3"></a>
 ## Screenshots
@@ -98,27 +98,47 @@ _**My Setup**_
 ![about-mac-Ventura](./img/about-Ventura.png)
 ---
 ![about-mac-Sonoma](./img/about-Sonoma.png)
-## *Sound*
+
+<details><summary><h2>Sound</h2></summary>
+
 ![sound](./img/sound.png)
-## *Wired Network and WI-FI*
+</details>
+
+<details><summary><h2>Wired Network and WI-FI</h2></summary>
+
 ![network](./img/network-wifi.png)
-## *Bluetooth*
+</details>
+
+<details><summary><h2>Bluetooth</h2></summary>
+
 ![bluetooth](./img/bluetooth.png)
-## *Hackintool Peripherals*
+</details>
+
+<details><summary><h2>Hackintool Peripherals</h2></summary>
+
 ![peripherals](./img/peripherals.png)
-## *Hackintool OpenCore Version*
+</details>
+
+<details><summary><h2>Hackintool OpenCore Version</h2></summary>
+
 ![opencore-version](./img/opencore-version.png)
-## *Hackintool kexts*
+</details>
+
+<details><summary><h2>Hackintool kexts</h2></summary>
+
 ![kexts](./img/kexts.png)
-## *Hackintool USB port mapping*
+</details>
+
+<details><summary><h2>Hackintool USB port mapping</h2></summary>
+
 ![usb-mapping](./img/USB-mapping.png)
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora4"></a>
-## *Kexts used, (all Releases)*
+
+<details><summary><h2>Kexts used, (all Releases)</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -133,11 +153,11 @@ _**My Setup**_
 - *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora5"></a>
-## *Recommended tools*
+
+<details><summary><h2>Recommended tools</h2></summary>
 
 * _**Recommendation 1**_
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
@@ -154,17 +174,16 @@ _**My Setup**_
   * *Use [`MountEFI`](https://github.com/corpnewt/MountEFI/blob/update/Mount%20EFI%20Automator%20Quick%20Action.zip), to mount EFI on macOS.*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora6"></a>
-## *Intel BIOS Settings*
+
+<details><summary><h2>Intel BIOS Settings</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#intel-bios-settings)
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora7"></a>
 ## *Thanks*
