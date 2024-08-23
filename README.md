@@ -55,6 +55,7 @@ _**My Setup**_
   - *Intel AX200*
 > [!NOTE]
 > _For more information on compatible Intel WiFi cards, see: [OpenIntelWireless](https://openintelwireless.github.io/itlwm/Compat)_ 
+---
 - _**Network**_
   - *Intel I225-V*  
 ---
