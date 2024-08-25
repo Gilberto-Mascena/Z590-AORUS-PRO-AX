@@ -142,7 +142,7 @@ _**Minha configuração**_
 
 ![usb-mapping](./img/USB-mapping.png)
 
-[Top](#ancora)
+[Topo](#ancora)
 </details>
 
 <a id="ancora4"></a>
@@ -159,6 +159,9 @@ _**Minha configuração**_
 - *[`BluetoolFixup.kext`](https://github.com/acidanthera/BrcmPatchRAM/releases)*
 - *[`IntelBluetoothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 - *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
+
+[Topo](#ancora)
+</details>
 
 <a id="ancora5"></a>
 
