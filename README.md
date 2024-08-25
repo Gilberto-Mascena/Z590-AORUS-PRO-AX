@@ -1,3 +1,5 @@
+[English](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/blob/main/README.md) | [Português Brasileiro](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/blob/main/README-pt_br.md)
+
 # *EFI OC Gigabyte Z590 AORUS PRO AX*
 
 
