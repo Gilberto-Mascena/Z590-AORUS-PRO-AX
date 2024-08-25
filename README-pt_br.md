@@ -1,5 +1,6 @@
-# *EFI OC Gigabyte Z590 AORUS PRO AX*
+[Português Brasileiro](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/blob/main/README-pt_br.md) | [English](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/blob/main/README.md)
 
+# *EFI OC Gigabyte Z590 AORUS PRO AX*
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Z590-AORUS-PRO-AX)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/Z590-AORUS-PRO-AX/.github%2Fworkflows%2Fbuild.yml)
