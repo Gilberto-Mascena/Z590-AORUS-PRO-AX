@@ -213,7 +213,7 @@ _**Minha configuração**_
 
 [*Licença MIT*](./LICENSE.md) (*MIT*)
 
-### _Gilberto | Dev 2023_ 
+### Gilberto | Dev _2023_
 
 [Top](#ancora)
 
