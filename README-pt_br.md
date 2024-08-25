@@ -204,6 +204,7 @@ _**Minha configuração**_
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
 - [*Shaneee*](https://github.com/Shaneee/AppleIGB)
 - [*SongXiaoXi*](https://github.com/SongXiaoXi/AppleIGC?tab=readme-ov-file)
+- [*itlwm*](https://github.com/OpenIntelWireless/itlwm)
 - *E outros*
 
 [Top](#ancora)
