@@ -205,8 +205,9 @@ _**My Setup**_
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
-- [*AppleIGB*](https://github.com/Shaneee/AppleIGB)
-- [*AppleIGC*](https://github.com/SongXiaoXi/AppleIGC?tab=readme-ov-file)
+- [*Shaneee*](https://github.com/Shaneee/AppleIGB)
+- [*SongXiaoXi*](https://github.com/SongXiaoXi/AppleIGC?tab=readme-ov-file)
+- [*itlwm*](https://github.com/OpenIntelWireless/itlwm)
 - *And others*
 
 [Top](#ancora)
