@@ -216,7 +216,7 @@ _**My Setup**_
 
 *The* [*MIT License*](./LICENSE.md) (*MIT*)
 
-### _Gilberto | Dev 2023_ 
+### Gilberto | Dev _2023_ 
 
 [Top](#ancora)
 
