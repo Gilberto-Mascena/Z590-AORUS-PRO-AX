@@ -72,7 +72,7 @@ _**Minha configuração**_
 - [*Kexts usados, (todas releases)*](#ancora4)
 - [*Ferramentas recomendadas*](#ancora5)
 - [*Configurações de BIOS Intel*](#ancora6)
-- [*Agradecimento*](#ancora7)
+- [*Agradecimentos*](#ancora7)
 - [*Licença* ](#ancora8)
 
 ---
