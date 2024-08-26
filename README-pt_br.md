@@ -89,7 +89,7 @@ _**Minha configuração**_
 - [x] *USB*
 - [x] *Sleep*
 
-[Topo](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora2"></a>
@@ -99,7 +99,7 @@ _**Minha configuração**_
 * _**CPU QV1K es**_
 *Como é um processador de engenharia, requer uma chave de ativação [`Geekbench`](https://www.geekbench.com) para gerar os testes, não tenho!*
 
-[Topo](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora3"></a>
@@ -143,7 +143,7 @@ _**Minha configuração**_
 
 ![usb-mapping](./img/USB-mapping.png)
 
-[Topo](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora4"></a>
@@ -161,7 +161,7 @@ _**Minha configuração**_
 - *[`IntelBluetoothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 - *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 
-[Topo](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora5"></a>
@@ -182,7 +182,7 @@ _**Minha configuração**_
 * _**Recomendação 6**_
   * *Use [`MountEFI`](https://github.com/corpnewt/MountEFI/blob/update/Mount%20EFI%20Automator%20Quick%20Action.zip), para montar EFI no macOS*
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora6"></a>
@@ -190,7 +190,7 @@ _**Minha configuração**_
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#intel-bios-settings)
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora7"></a>
@@ -207,7 +207,7 @@ _**Minha configuração**_
 - [*itlwm*](https://github.com/OpenIntelWireless/itlwm)
 - *E outros*
 
-[Top](#ancora)
+[Voltar](#ancora)
 
 <a id="ancora8"></a>
 ## *Licença* 
@@ -216,7 +216,7 @@ _**Minha configuração**_
 
 ### Gilberto | Dev _2023_
 
-[Top](#ancora)
+[Voltar](#ancora)
 
 ---
 
