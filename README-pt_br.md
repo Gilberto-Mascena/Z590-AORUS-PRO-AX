@@ -169,18 +169,18 @@ _**Minha configuração**_
 <details><summary><h2>Ferramentas recomedadas</h2></summary>
 
 * _**Recomendação 1**_
-* *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novas seriais para seu SMBIOS a fim de evitar conflitos com iServices*
+  * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novas seriais para seu SMBIOS a fim de evitar conflitos com iServices*
 * _**Recomendação 2**_
-* *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar seu config.plist*
+  * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar seu config.plist*
 * _**Recomendação 3**_
-* *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, a partir do OC 0.9.3, elas podem ser mapeadas com XHCIPortLimit habilitado em config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases)*
+  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, a partir do OC 0.9.3, elas podem ser mapeadas com XHCIPortLimit habilitado em config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases)*
 * _**Recomendação 4**_
-* *Extraia seu DSDT do Windows.*
-* *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), gere seus patches SSDT*
+  * *Extraia seu DSDT do Windows.*
+  * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), gere seus patches SSDT*
 * _**Recomendação 5**_
-* *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT no Mac*
+  * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT no Mac*
 * _**Recomendação 6**_
-* *Use [`MountEFI`](https://github.com/corpnewt/MountEFI/blob/update/Mount%20EFI%20Automator%20Quick%20Action.zip), para montar EFI no macOS*
+  * *Use [`MountEFI`](https://github.com/corpnewt/MountEFI/blob/update/Mount%20EFI%20Automator%20Quick%20Action.zip), para montar EFI no macOS*
 
 [Top](#ancora)
 </details>
