@@ -68,20 +68,22 @@ _**My Setup**_
   - *Intel I225-V*  
 ---
 
-<a name="ancora"></a>
+<a name="anchor"></a>
+
 ## _Topic navigation_
-- [*What works*](#ancora1)
-- [*Geekbench results*](#ancora2)
-- [*Screenshot*](#ancora3)
-- [*Kexts used, (all Releases)*](#ancora4)
-- [*Recommended tools*](#ancora5)
-- [*Intel BIOS Settings*](#ancora6)
-- [*Thanks*](#ancora7)
-- [*License* ](#ancora8)
+
+- [*What works*](#anchor1)
+- [*Geekbench results*](#anchor2)
+- [*Screenshot*](#anchor3)
+- [*Kexts used, (all Releases)*](#anchor4)
+- [*Recommended tools*](#anchor5)
+- [*Intel BIOS Settings*](#anchor6)
+- [*Thanks*](#anchor7)
+- [*License* ](#anchor8)
 
 ---
 
-<a id="ancora1"></a>
+<a id="anchor1"></a>
 
 <details><summary><h2>What works</h2></summary>
 
@@ -92,20 +94,21 @@ _**My Setup**_
 - [x] *USB*
 - [x] *Sleep*
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora2"></a>
+<a id="anchor2"></a>
 
 <details><summary><h2>Geekbench results</h2></summary>
 
 * _**CPU QV1K es**_
   *As it is an engineering processor, it requires an activation key [`Geekbench`](https://www.geekbench.com) to generate the tests, I don't have it!*
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora3"></a>
+<a id="anchor3"></a>
+
 ## Screenshots
 
 ![about-mac-Ventura](./img/about-Ventura.png)
@@ -146,10 +149,10 @@ _**My Setup**_
 
 ![usb-mapping](./img/USB-mapping.png)
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora4"></a>
+<a id="anchor4"></a>
 
 <details><summary><h2>Kexts used, (all Releases)</h2></summary>
 
@@ -165,10 +168,10 @@ _**My Setup**_
 - *[`IntelBluetoothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 - *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora5"></a>
+<a id="anchor5"></a>
 
 <details><summary><h2>Recommended tools</h2></summary>
 
@@ -186,19 +189,20 @@ _**My Setup**_
 * _**Recommendation 6**_
   * *Use [`MountEFI`](https://github.com/corpnewt/MountEFI/blob/update/Mount%20EFI%20Automator%20Quick%20Action.zip), to mount EFI on macOS.*
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora6"></a>
+<a id="anchor6"></a>
 
 <details><summary><h2>Intel BIOS Settings</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#intel-bios-settings)
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora7"></a>
+<a id="anchor7"></a>
+
 ## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -212,15 +216,16 @@ _**My Setup**_
 - [*itlwm*](https://github.com/OpenIntelWireless/itlwm)
 - *And others*
 
-[Top](#ancora)
+[Top](#anchor)
 
-<a id="ancora8"></a>
+<a id="anchor8"></a>
+
 ## *License* 
 
 *The* [*MIT License*](./LICENSE.md) (*MIT*)
 
 ### Gilberto | Dev _2023_ 
 
-[Top](#ancora)
+[Top](#anchor)
 
 ---
