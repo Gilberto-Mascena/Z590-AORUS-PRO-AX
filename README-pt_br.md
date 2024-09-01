@@ -68,7 +68,9 @@ _**Minha configuração**_
 ---
 
 <a name="ancora"></a>
+
 ## _Navegação por tópicos_
+
 - [*O que funciona*](#ancora1)
 - [*Resultados do Geekbench*](#ancora2)
 - [*Capturas de telas*](#ancora3)
@@ -105,6 +107,7 @@ _**Minha configuração**_
 </details>
 
 <a id="ancora3"></a>
+
 ## Capturas de telas
 
 ![about-mac-Ventura](./img/about-Ventura.png)
@@ -195,7 +198,10 @@ _**Minha configuração**_
 [Voltar](#ancora)
 </details>
 
+## [_Creating macOS Installer on Windows or Linux_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac)
+
 <a id="ancora7"></a>
+
 ## *Agradecimentos*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -212,6 +218,7 @@ _**Minha configuração**_
 [Voltar](#ancora)
 
 <a id="ancora8"></a>
+
 ## *Licença* 
 
 [*Licença MIT*](./LICENSE.md) (*MIT*)
