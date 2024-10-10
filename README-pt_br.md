@@ -114,6 +114,8 @@ _**Minha configuração**_
 ![about-mac-Ventura](./img/about-Ventura.png)
 ---
 ![about-mac-Sonoma](./img/about-Sonoma.png)
+---
+![about-mac-Sequoia](./img/about-Sequoia.png)
 
 <details><summary><h2>Audio</h2></summary>
 
