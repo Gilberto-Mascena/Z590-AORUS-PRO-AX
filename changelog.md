@@ -6,6 +6,7 @@ _**Changes in this Version**_
     - _Vesion 1.0.2_
 
   - _Kests_
+    - _AppleIGC 1.5_
     - _BlueToolFixup 2.6.9_
     - _CpuTscSync 1.1.1_
     - _Lilu 1.6.9_
