@@ -11,7 +11,7 @@
 ![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z590-AORUS-PRO-AX)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z590-AORUS-PRO-AX)
 
----
+##
 
 ## *Sistemas operacionais*
 
@@ -226,6 +226,3 @@ _**Minha configuração**_
 ### Gilberto | Dev _2023_
 
 [Voltar](#ancora)
-
----
-
