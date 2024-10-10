@@ -115,6 +115,8 @@ _**My Setup**_
 ![about-mac-Ventura](./img/about-Ventura.png)
 ---
 ![about-mac-Sonoma](./img/about-Sonoma.png)
+---
+![about-mac-Sonoma](./img/about-Sequoia.png)
 
 <details><summary><h2>Sound</h2></summary>
 
