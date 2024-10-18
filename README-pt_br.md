@@ -35,7 +35,7 @@ _**Minha configuração**_
 - _**Versão da Bios**_
     - *F11*
 - _**Gabinete**_
-  - *Fortress-tg Gamemax*
+  - *AIGO DARKFLASH C285-BK-4F*
 - _**Fonte**_
   - *SUPER FLOWER - LEGION GX PRO 750W 80 PLUS GOLD*
 - _**CPU**_
