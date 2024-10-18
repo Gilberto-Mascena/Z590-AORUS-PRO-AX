@@ -35,7 +35,7 @@ _**My Setup**_
   - <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
 - _**Bios version**_
   - *F11*
-- _**Case**_
+- _**PC Case**_
   - *AIGO DARKFLASH C285-BK-4F*
 - **Power supply**
   - *SUPER FLOWER - LEGION GX PRO 750W 80 PLUS GOLD*
