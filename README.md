@@ -36,7 +36,7 @@ _**My Setup**_
 - _**Bios version**_
   - *F11*
 - _**Case**_
-  - *Fortress-tg Gamemax*
+  - *AIGO DARKFLASH C285-BK-4F*
 - **Power supply**
   - *SUPER FLOWER - LEGION GX PRO 750W 80 PLUS GOLD*
 - _**CPU**_
