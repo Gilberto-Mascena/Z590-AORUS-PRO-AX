@@ -17,28 +17,26 @@ jobs:
 
       - name: Packaging EFIs 
         run: |
-          zip -q -r EFI.zip ./EFI
+          zip -q -r Z590-AORUS-PRO-AX-macOS-Sonoma.zip ./Z590-AORUS-PRO-AX-macOS-Sonoma
+          zip -q -r Z590-AORUS-PRO-AX-macOS-Sequoia.zip ./Z590-AORUS-PRO-AX-macOS-Sequoia
           ls -l *.zip
 
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          body_path: changelog.md
-          draft: false
-          prerelease: false
-
+      - name: Generate release tag
+        id: tag
+        run: |         
+            echo "::set-output name=release_tag::$(cat ReleaseTag.txt)"
+            cat ReleaseTag.txt
+      
       - name: Upload Release Asset
         id: upload-release-asset 
-        uses: actions/upload-release-asset@v1
+        uses: softprops/action-gh-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}  
-          asset_path: ./EFI.zip
-          asset_name: EFI.zip
-          asset_content_type: application/zip
+          name: Release ${{ steps.tag.outputs.release_tag }}   
+          tag_name: ${{ steps.tag.outputs.release_tag }}    
+          prerelease: false
+          draft: false
+          body_path: changelog.md
+          files: |
+            ./*.zip
