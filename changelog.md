@@ -2,16 +2,11 @@ _**Changes in this Version**_
 
 - _Updates in this release:_    
 
-  - _Opencore_
-    - _Vesion 1.0.2_
+  - _Two EFI options now available_
+##
 
-  - _Kests_
-    - _AppleIGC 1.5_
-    - _BlueToolFixup 2.6.9_
-    - _CpuTscSync 1.1.1_
-    - _Lilu 1.6.9_
-    - _RestrictEvents 1.1.5_
-    - _SMCProcessor 1.3.4_
-    - _SMCSuperIO 1.3.4_
-    - _VirtualSMC 1.3.4_
-    - _WhateverGreen 1.6.8_
+> [!IMPORTANT]
+>Z590-AORUS-PRO-AX-macOS-Sonoma is specific for macOS Sonoma 14.4+, if you use a different macOS version, please download the corresponding version for your macOS from: [itlwm](https://github.com/OpenIntelWireless/itlwm/releases) and replace the new kext in EFI -> OC -> Kexts. 
+
+> [!IMPORTANT]
+>Z590-AORUS-PRO-AX-macOS-Sequoia is specific for macOS Sequoia. You will need [HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases) app, download and install HeliPort.dmg stable version
