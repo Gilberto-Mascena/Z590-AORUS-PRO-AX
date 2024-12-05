@@ -2,9 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#Z590 AORUS PRO AX to Sequoia and HeliPort OC Rel 1.0.2</key>
+	<key>#Z590 AORUS PRO AX to Sequoia and HeliPort OC Rel 1.0.3</key>
 	<string></string>
-	<key>#iMacPro1,1  Core I9 11900Kes RX 6600</key>
+	<key>#MacPro7,1  Core I9 11900Kes RX 6600</key>
 	<string></string>
 	<key>#GitHub: https://github.com/Gilberto-Mascena</key>
 	<string></string>
@@ -924,23 +924,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02734130QXJG361M</string>
+			<string>F5K020108GUK3F71M</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>4097</integer>
 			<key>ROM</key>
-			<data>pMNh4Rd6</data>
+			<data>RNiE3Xt8</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V8PZUHX87</string>
+			<string>F5KCQ097P7QM</string>
 			<key>SystemUUID</key>
-			<string>A664BAEF-4D52-42D8-A490-75D2F0C3B265</string>
+			<string>602B393C-B68E-4AA9-9069-328BD3F20086</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
