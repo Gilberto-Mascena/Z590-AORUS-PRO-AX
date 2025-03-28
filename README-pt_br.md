@@ -3,19 +3,12 @@
 # *EFI OC Gigabyte Z590 AORUS PRO AX*
 
 ![Status de Manutenção](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
-
 [![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/Z590-AORUS-PRO-AX/build.yml?style=for-the-badge)](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/actions)
-
 [![Licença](https://img.shields.io/github/license/Gilberto-Mascena/Z590-AORUS-PRO-AX?style=for-the-badge)](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/blob/main/LICENSE.md)
-
 [![Estrelas no GitHub](https://img.shields.io/github/stars/Gilberto-Mascena/Z590-AORUS-PRO-AX?style=for-the-badge)](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/stargazers)
-
 [![Problemas no GitHub](https://img.shields.io/github/issues/Gilberto-Mascena/Z590-AORUS-PRO-AX?style=for-the-badge)](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/issues)
-
 [![Versão do Repositório](https://img.shields.io/github/v/release/Gilberto-Mascena/Z590-AORUS-PRO-AX?include_prereleases&style=for-the-badge)](https://github.com/Gilberto-Mascena/Z590-AORUS-PRO-AX/releases)
-
 ![Data de Lançamento](https://img.shields.io/github/release-date/Gilberto-Mascena/Z590-AORUS-PRO-AX?style=for-the-badge)
-
 ![Tamanho do Repositório](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z590-AORUS-PRO-AX?style=for-the-badge)
 
 ##
