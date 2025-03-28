@@ -85,7 +85,7 @@ _**Minha configuração**_
 
 <a id="ancora1"></a>
 
-<details><summary><h2>O que funciona</h2></summary>
+<details><summary><h2>O que funciona 👀</h2></summary>
 
 - [x] *Som*
 - [x] *Rede*
@@ -99,7 +99,7 @@ _**Minha configuração**_
 
 <a id="ancora2"></a>
 
-<details><summary><h2>Resultados do Geekbench</h2></summary>
+<details><summary><h2>Resultados do Geekbench 👀</h2></summary>
 
 * _**CPU QV1K es**_
 *Como é um processador de engenharia, requer uma chave de ativação [`Geekbench`](https://www.geekbench.com) para gerar os testes, não tenho!*
@@ -117,37 +117,37 @@ _**Minha configuração**_
 ---
 ![about-mac-Sequoia](./img/about-Sequoia.png)
 
-<details><summary><h2>Audio</h2></summary>
+<details><summary><h2>Audio 👀</h2></summary>
 
 ![sound](./img/sound.png)
 </details>
 
-<details><summary><h2>Rede e WI-FI</h2></summary>
+<details><summary><h2>Rede e WI-FI 👀</h2></summary>
 
 ![network](./img/network-wifi.png)
 </details>
 
-<details><summary><h2>Bluetooth</h2></summary>
+<details><summary><h2>Bluetooth 👀</h2></summary>
 
 ![bluetooth](./img/bluetooth.png)
 </details>
 
-<details><summary><h2>Perifericos</h2></summary>
+<details><summary><h2>Perifericos 👀</h2></summary>
 
 ![peripherals](./img/peripherals.png)
 </details>
 
-<details><summary><h2>Versão do OpenCore</h2></summary>
+<details><summary><h2>Versão do OpenCore 👀</h2></summary>
 
 ![opencore-version](./img/opencore-version.png)
 </details>
 
-<details><summary><h2>Kexts</h2></summary>
+<details><summary><h2>Kexts 👀</h2></summary>
 
 ![kexts](./img/kexts.png)
 </details>
 
-<details><summary><h2>Mapeamento de portas USB</h2></summary>
+<details><summary><h2>Mapeamento de portas USB 👀</h2></summary>
 
 ![usb-mapping](./img/USB-mapping.png)
 
@@ -155,7 +155,7 @@ _**Minha configuração**_
 </details>
 
 <a id="ancora4"></a>
-<details><summary><h2>Kexts usadas, (todas releases)</h2></summary>
+<details><summary><h2>Kexts usadas, (todas releases) 👀</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -174,7 +174,7 @@ _**Minha configuração**_
 
 <a id="ancora5"></a>
 
-<details><summary><h2>Ferramentas recomedadas</h2></summary>
+<details><summary><h2>Ferramentas recomedadas 👀</h2></summary>
 
 * _**Recomendação 1**_
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novas seriais para seu SMBIOS a fim de evitar conflitos com iServices*
@@ -194,14 +194,14 @@ _**Minha configuração**_
 </details>
 
 <a id="ancora6"></a>
-<details><summary><h2>Configurações de BIOS Intel</h2></summary>
+<details><summary><h2>Configurações de BIOS Intel 👀</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#intel-bios-settings)
 
 [Voltar](#ancora)
 </details>
 
-## [_Criando o instalador do macOS no Windows ou Linux_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac)
+## 👉 [_Criando o instalador do macOS no Windows ou Linux_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac)
 
 <a id="ancora7"></a>
 
