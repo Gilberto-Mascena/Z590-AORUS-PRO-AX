@@ -34,7 +34,7 @@ _**My Setup**_
 - _**Motherboard**_
   - [*Gigabyte Z590 AORUS PRO AX*](https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf") 
 - _**Bios version**_
-  - *F11*
+  - *F12b release date 2025/06/10*
 - _**PC Case**_
   - *AIGO DARKFLASH C285-BK-4F*
 - **Power supply**

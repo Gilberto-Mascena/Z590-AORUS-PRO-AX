@@ -33,7 +33,7 @@ _**Minha configuração**_
 - _**Placa-mãe**_
     - <a href="https://www.gigabyte.com/br/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf" target="_blank">*Gigabyte Z590 AORUS PRO AX*</a>
 - _**Versão da Bios**_
-    - *F11*
+    - *F12b data de lançamento 10/06/2025*
 - _**Gabinete**_
   - *AIGO DARKFLASH C285-BK-4F*
 - _**Fonte**_
