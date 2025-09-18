@@ -134,7 +134,6 @@ _**My Setup**_
 ![about-mac-Tahoe](./img/about-tahoe.png)
 
 
-<details><summary><h2>Audio 👀</h2></summary>
 <details><summary><h2>Sound 👀</h2></summary>
 
 ![sound](./img/sound.png)
