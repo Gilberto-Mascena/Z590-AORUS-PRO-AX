@@ -19,7 +19,8 @@
   <img width="100" src="./img/macos-monterey-icon.png" alt="macOS Monterey icons">  
   <img width="100" src="./img/macos-ventura-icon.png" alt="macOS Ventura icons">  
   <img width="100" src="./img/macos-sonoma-icon.png" alt="macOS Sonoma icons"> 
-   <img width="100" src="./img/macos-sequoia-icon.png" alt="macOS Sequoia icons">  
+   <img width="100" src="./img/macos-sequoia-icon.png" alt="macOS Sequoia icons">
+   <!--- <img width="90" src="./img/macos-tahoe-icon.png" alt="macOS Tahoe icons"> --->  
 </div>
 
 <div>
@@ -111,13 +112,24 @@ _**Minha configuração**_
 
 ## Capturas de telas
 
+<p style="text-align: center;">macOS Ventura</p>
+
 ![about-mac-Ventura](./img/about-Ventura.png)
 ---
+
+<p style="text-align: center;">macOS Sonoma</p>
+
 ![about-mac-Sonoma](./img/about-Sonoma.png)
 ---
-![about-mac-Sequoia](./img/about-Sequoia.png)
 
-<details><summary><h2>Audio 👀</h2></summary>
+<p style="text-align: center;">macOS Sequoia</p>
+
+![about-mac-Sequoia](./img/about-Sequoia.png)
+---
+
+<p style="text-align: center;">macOS Tahoe</p>
+
+![about-mac-Tahoe](./img/about-tahoe.png)
 
 ![sound](./img/sound.png)
 </details>
