@@ -21,7 +21,7 @@
   <img width="100" src="./img/macos-ventura-icon.png" alt="macOS Ventura icons">  
   <img width="100" src="./img/macos-sonoma-icon.png" alt="macOS Sonoma icons">
   <img width="100" src="./img/macos-sequoia-icon.png" alt="macOS Sequoia icons">
-<!--- <img width="90" src="./img/macos-tahoe-icon.png" alt="macOS Tahoe icons"> --->   
+  <img width="94" src="./img/macos-tahoe-icon.png" alt="macOS Tahoe icons"> 
 </div>
 
 <div>
@@ -130,6 +130,13 @@ _**My Setup**_
 ---
 
 ### macOS Tahoe
+
+> [! IMPORTANT]
+> _**macOS Tahoe 26.0**_
+> _Update your EFI_
+> _Update your USB mapping_
+> _Update AppleIGC.kext_
+> _If you get stuck during installation, disable WhateverGreen in the config.plist and then enable it after installation_
 
 ![about-mac-Tahoe](./img/about-tahoe.png)
 

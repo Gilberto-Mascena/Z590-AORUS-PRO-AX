@@ -20,7 +20,7 @@
   <img width="100" src="./img/macos-ventura-icon.png" alt="macOS Ventura icons">  
   <img width="100" src="./img/macos-sonoma-icon.png" alt="macOS Sonoma icons"> 
    <img width="100" src="./img/macos-sequoia-icon.png" alt="macOS Sequoia icons">
-   <!--- <img width="90" src="./img/macos-tahoe-icon.png" alt="macOS Tahoe icons"> --->  
+   <img width="94" src="./img/macos-tahoe-icon.png" alt="macOS Tahoe icons">  
 </div>
 
 <div>
@@ -60,6 +60,7 @@ _**Minha configuração**_
   - *CORSAIR VENGEANCE LPX 4x16GB 64GB*
 - _**WI-FI / Bluetooth**_
   - *Intel AX200*
+
 > [!NOTE]
 > _Para mais informações sobre placas Intel WiFi compatíveis, consulte: [OpenIntelWireless](https://openintelwireless.github.io/itlwm/Compat)_
 
@@ -128,6 +129,13 @@ _**Minha configuração**_
 ---
 
 ### macOS Tahoe
+
+> [! IMPORTANT]
+> _**macOS Tahoe 26.0**_
+> _Atualize sua EFI_
+> _Atualize seu mapeamento USB_
+> _Atualize AppleIGC.kext_
+> _Se ficar preso na instalação desative no config.plist WhateverGreen e depois de instalado ative-a_
 
 ![about-mac-Tahoe](./img/about-tahoe.png)
 
