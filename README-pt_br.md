@@ -64,6 +64,13 @@ _**Minha configuração**_
 > [!NOTE]
 > _Para mais informações sobre placas Intel WiFi compatíveis, consulte: [OpenIntelWireless](https://openintelwireless.github.io/itlwm/Compat)_
 
+> [!IMPORTANT]
+> _**macOS Tahoe 26.0**_
+> _Atualize sua EFI_
+> _Atualize seu mapeamento USB_
+> _Atualize AppleIGC.kext_
+> _Se ficar preso na instalação desative no config.plist WhateverGreen e depois de instalado ative-a_
+
 ##
 
 - _**Rede**_
@@ -129,13 +136,6 @@ _**Minha configuração**_
 ---
 
 ### macOS Tahoe
-
-> [! IMPORTANT]
-> _**macOS Tahoe 26.0**_
-> _Atualize sua EFI_
-> _Atualize seu mapeamento USB_
-> _Atualize AppleIGC.kext_
-> _Se ficar preso na instalação desative no config.plist WhateverGreen e depois de instalado ative-a_
 
 ![about-mac-Tahoe](./img/about-tahoe.png)
 
