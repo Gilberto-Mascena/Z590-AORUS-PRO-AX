@@ -114,22 +114,22 @@ _**My Setup**_
 ## Screenshots
 
 
-<p style="text-align: center;">macOS Ventura</p>
+### macOS Ventura
 
 ![about-mac-Ventura](./img/about-Ventura.png)
 ---
 
-<p style="text-align: center;">macOS Sonoma</p>
+### macOS Sonoma
 
 ![about-mac-Sonoma](./img/about-Sonoma.png)
 ---
 
-<p style="text-align: center;">macOS Sequoia</p>
+### macOS Sequoia
 
 ![about-mac-Sequoia](./img/about-Sequoia.png)
 ---
 
-<p style="text-align: center;">macOS Tahoe</p>
+### macOS Tahoe
 
 ![about-mac-Tahoe](./img/about-tahoe.png)
 
