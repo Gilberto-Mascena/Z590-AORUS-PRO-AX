@@ -66,6 +66,19 @@ _**My Setup**_
 
 ##
 
+> [!IMPORTANT]
+> ## _macOS Tahoe 26.0_
+>
+> _1. Update your EFI_
+>
+> _2. Update your USB mapping_
+>
+> _3. Update AppleIGC.kext_
+>
+> _4. If you get stuck during installation, disable WhateverGreen in the config.plist and then enable it after installation_
+
+##
+
 - _**Network**_
   - *Intel I225-V*  
 ---
