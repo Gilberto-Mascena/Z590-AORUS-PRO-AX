@@ -144,13 +144,6 @@ _**My Setup**_
 
 ### macOS Tahoe
 
-> [! IMPORTANT]
-> _**macOS Tahoe 26.0**_
-> _Update your EFI_
-> _Update your USB mapping_
-> _Update AppleIGC.kext_
-> _If you get stuck during installation, disable WhateverGreen in the config.plist and then enable it after installation_
-
 ![about-mac-Tahoe](./img/about-tahoe.png)
 
 
