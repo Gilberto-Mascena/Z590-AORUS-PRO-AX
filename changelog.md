@@ -9,7 +9,7 @@
 
   - [x] **macOS Tahoe 26.0**  
     
-  - ***_Two EFI options now available_***
+  - ***_Now three EFI models are available._***
 ##
 
 > [!IMPORTANT]
