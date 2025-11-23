@@ -18,6 +18,7 @@ jobs:
       - name: Packaging EFIs 
         run: |
           zip -q -r Z590-AORUS-PRO-AX-macOS-Sonoma.zip ./Z590-AORUS-PRO-AX-macOS-Sonoma
+          zip -q -r Z590-AORUS-PRO-AX-macOS-Sequoia.zip ./Z590-AORUS-PRO-AX-macOS-Sequoia
           zip -q -r Z590-AORUS-PRO-AX-macOS-Tahoe.zip ./Z590-AORUS-PRO-AX-macOS-Tahoe
           ls -l *.zip
 
