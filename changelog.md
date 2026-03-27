@@ -2,9 +2,22 @@
 
 - ### 🎉 Updates in this release:   
 
-  - #### _OpenCore_
-    - _Version 1.0.6_ 
-  - #### _SmBios_
+  #### _OpenCore_
+    - _1.0.7_
+
+  #### _Driver_
+    - _OpenRuntime_
+    - _OpenCanopy_
+    - _ResetNvramEntry_
+
+
+  #### _Kexts_
+    - _Lilu 1.7.2_ 
+    - _BrcmPatchRAM 2.7.2_
+    - _AppleIGC 1.8_
+    - _NVMeFix 1.1.3_
+
+  #### _SmBios_
     - _MacPro7,1_
 
   - [x] **macOS Tahoe 26.0**  
