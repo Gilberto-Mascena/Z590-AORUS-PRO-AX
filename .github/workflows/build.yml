@@ -1,19 +1,22 @@
-#Github Actions to create a release and upload a release asset
-#Gigabyte Z590 Aorus Pro AX Hackintosh EFI
+name: Upload EFI to Release
 
 on:
-  push:    
+  push:
     tags:
-      - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10
-name: Uploud EFI to Release
+      - 'v*'
 
 jobs:
   build:
     name: Upload Release Asset
-    runs-on: ubuntu-latest    
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3 
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Packaging EFIs 
         run: |
@@ -22,22 +25,27 @@ jobs:
           zip -q -r Z590-AORUS-PRO-AX-macOS-Tahoe.zip ./Z590-AORUS-PRO-AX-macOS-Tahoe
           ls -l *.zip
 
-      - name: Generate release tag
-        id: tag
-        run: |         
-            echo "::set-output name=release_tag::$(cat ReleaseTag.txt)"
-            cat ReleaseTag.txt
-      
+      - name: Generate Release Notes
+        id: release_notes
+        run: |
+          if [ -f "changelog.md" ]; then
+            echo "Usando changelog.md existente."
+            # O conteúdo do arquivo será usado no campo body_path abaixo
+          else
+            echo "changelog.md não encontrado. Gerando log de commits..."
+            # Pega as mensagens dos commits desde a última tag
+            git log $(git describe --tags --abbrev=0 HEAD^ 2>/dev/null || git rev-list --max-parents=0 HEAD)..HEAD --oneline > auto_changelog.md
+          fi
+
       - name: Upload Release Asset
         id: upload-release-asset 
-        uses: softprops/action-gh-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: softprops/action-gh-release@v2
         with:
-          name: Release ${{ steps.tag.outputs.release_tag }}   
-          tag_name: ${{ steps.tag.outputs.release_tag }}    
-          prerelease: false
-          draft: false
-          body_path: changelog.md
+          name: Release ${{ github.ref_name }}   
+          tag_name: ${{ github.ref_name }}    
+          generate_release_notes: true 
+          body_path: ${{ hashFiles('changelog.md') != '' && 'changelog.md' || '' }}
           files: |
             ./*.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
