@@ -3,7 +3,7 @@
 - ### 🎉 Updates in this release:   
 
   #### _OpenCore_
-    - _1.0.7_
+    - _1.0.8_
 
   #### _Driver_
     - _OpenRuntime_
@@ -12,10 +12,9 @@
 
 
   #### _Kexts_
-    - _Lilu 1.7.2_ 
-    - _BrcmPatchRAM 2.7.2_
-    - _AppleIGC 1.8_
-    - _NVMeFix 1.1.3_
+    - _WhateverGreen 1.7.1_ 
+    - _VirtualSMC 1.3.8_
+  
 
   #### _SmBios_
     - _MacPro7,1_
